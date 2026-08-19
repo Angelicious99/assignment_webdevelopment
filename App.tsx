@@ -24,7 +24,7 @@ export default function App() {
       <header className="site-header">
         <div className="header-top">
           <Link to="/" className="header-brand">
-            <img src="/favicon.svg" alt="Devon Valley Winery logo" className="header-logo" />
+            <img src="./favicon.svg" alt="Devon Valley Winery logo" className="header-logo" />
             <div className="header-brand-text">
               <h1>Devon Valley Winery</h1>
               <span className="header-slogan">The best drinks in the town.</span>
@@ -88,7 +88,7 @@ export default function App() {
           <div className="footer-col">
             <h4>Contact</h4>
             <p>12 Vineyard Road, Devon Valley</p>
-            <p>Phone: 0452206799 </p>
+            <p>Phone: (08) 8123 4567</p>
             <p>Email: info@devonvalleywine.com</p>
           </div>
         </div>
